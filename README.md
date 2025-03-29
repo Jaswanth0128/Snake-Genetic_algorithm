@@ -9,7 +9,9 @@ This project implements Genetic Algorithms (GAs) integrated with a Feed-Forward 
 
 https://github.com/user-attachments/assets/b72098f9-c258-4589-8a49-c431e913aa47
 
-Training
+![Screenshot 2025-03-28 115913](https://github.com/user-attachments/assets/3f7fef91-d8d0-44af-8f7a-d3a71e3388ab)
+![Screenshot 2025-03-28 114223](https://github.com/user-attachments/assets/5cde5ba1-3e68-42c7-a82b-876f60c26087)
+
 ---
 
 ## **About the Case Study**
