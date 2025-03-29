@@ -6,7 +6,8 @@ This project implements Genetic Algorithms (GAs) integrated with a Feed-Forward 
 ---
 
 ## **Demo Video**
-[Upload or link your output video here]
+
+https://github.com/user-attachments/assets/b72098f9-c258-4589-8a49-c431e913aa47
 
 ---
 
@@ -110,7 +111,8 @@ The snake must navigate the grid to consume food while avoiding collisions. Gene
 
 ### **Fitness Score Progression Across Generations:**
 
-![Fitness Progression Plot](path_to_plot_image.png)
+![Figure_1](https://github.com/user-attachments/assets/62f7b2b2-2d08-42db-b548-2bbc8f02b230)
+
 
 The plot illustrates the improvement in fitness scores across 100 generations, highlighting how the snake's performance improves over time.
 
