@@ -122,6 +122,7 @@ The plot illustrates the improvement in fitness scores across 100 generations, h
 
 The fitness score progression plot shows a consistent upward trend, indicating that the Genetic Algorithm effectively evolved better navigation strategies over time. Initial generations had high variance, while later generations stabilized with improved performance. Plateaus indicate possible local optima, suggesting that further parameter tuning could yield even better results.
 
+If you want to check out every generation's fitness scores, check fitness_scores.txt
 ---
 
 ## **Output**
