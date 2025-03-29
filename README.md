@@ -10,13 +10,6 @@ This project implements Genetic Algorithms (GAs) integrated with a Feed-Forward 
 https://github.com/user-attachments/assets/b72098f9-c258-4589-8a49-c431e913aa47
 
 ---
-<h2>Demo Video</h2>
-
-<video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/b72098f9-c258-4589-8a49-c431e913aa47" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 ## **About the Case Study**
 
